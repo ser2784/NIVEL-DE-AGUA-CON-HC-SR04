@@ -1,4 +1,4 @@
-# Practica ESP32 con HC-SR04
+# Practica Nivel de agua
 Este repositorio muestra como podemos programar una ESP32 con el sensor HC-SR04.
 
 ## Introducción
@@ -123,7 +123,7 @@ delay (2000);
 
 2. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/ser2784/PRACTICA-DHT-CON-LCD/blob/main/diagrama%202.png)
+![](https://github.com/ser2784/NIVEL-DE-AGUA-CON-HC-SR04/blob/main/NIVEL%20DE%20AGUA%20NINGUN%20LED%20PRENDIDO.png)
 
 ### Instrucciónes de operación
 
@@ -136,11 +136,11 @@ delay (2000);
 
 Cuando haya funcionado, verás los valores como se muestra en la siguente imagen.
 
-![](https://github.com/ser2784/PRACTICA-DHT-CON-LCD/blob/main/nombre%20en%20displey%202.png)
-![](https://github.com/ser2784/PRACTICA-DHT-CON-LCD/blob/main/temperatura%20en%20displey%202.png)
-
-
-
+![](https://github.com/ser2784/NIVEL-DE-AGUA-CON-HC-SR04/blob/main/NIVEL%20DE%20AGUA%201LED.png)
+![](https://github.com/ser2784/NIVEL-DE-AGUA-CON-HC-SR04/blob/main/NIVEL%20DE%20AGUA%202LED.png)
+![](https://github.com/ser2784/NIVEL-DE-AGUA-CON-HC-SR04/blob/main/NIVEL%20DE%20AGUA%203LED.png)
+![](https://github.com/ser2784/NIVEL-DE-AGUA-CON-HC-SR04/blob/main/NIVEL%20DE%20AGUA%20LED4.png)
+![](https://github.com/ser2784/NIVEL-DE-AGUA-CON-HC-SR04/blob/main/NIVEL%20DE%20AGUA%20NINGUN%20LED%20PRENDIDO.png)
 ## Evidencias
 
 [por El momento no contamos con el video ]
